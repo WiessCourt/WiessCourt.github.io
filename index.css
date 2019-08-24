@@ -92,7 +92,7 @@ body {
     font-size:25px;
     transform:rotate(-90deg);
     background:transparent;
-    color:#fff;
+    color:rgb(63,63,63);
     position:fixed;
     left:0;
     bottom:40vh;
@@ -139,7 +139,7 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(242,231,54,0.9);
+    background:rgba(242,242,242,0.8);
     cursor:pointer;
 }
 #work:hover {
@@ -173,7 +173,7 @@ body {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(46,189,229);
+    background:rgb(63,63,63);
     color:#fff;
     z-index:9;
     position:fixed;
