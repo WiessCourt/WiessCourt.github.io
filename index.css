@@ -110,7 +110,7 @@ body {
     font-size:25px;
     transform:rotate(90deg);
     background:transparent;
-    color:#fff;
+    color:rgb(63,63,63);
     position:fixed;
     right:0;
     bottom:40vh;
@@ -139,11 +139,11 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(242,242,242,0.8);
+    background:rgba(242,242,242,1);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(242,231,54,0.9);
+    background:rgba(242,242,242,1);
     cursor:pointer;
 }
 #contact:hover {
