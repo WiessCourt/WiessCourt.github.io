@@ -312,14 +312,14 @@ body {
     background: #fff; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(242,231,54); 
+    background: #FFCD46; 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(242,231,54,0.8); 
+    background: #FFCD46; 
 }
 ::selection {
 	color: #fff;
-	background: rgb(242,231,54);
+	background: #FFCD46;
 }
 
 @media (max-width: 800px){ 
